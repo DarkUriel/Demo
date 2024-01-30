@@ -1,0 +1,17 @@
+{
+    "name": "Demo Asociacion San Juan",
+    "short_name": "Demo App",
+    "theme_color": "#ffe08a",
+    "background_color": "#ffe08a",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./assets/img/Logo.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
